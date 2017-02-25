@@ -1,0 +1,9 @@
+rethinkdb:
+  database: f4d
+  host: localhost
+  port: 28015
+  minsize: 2
+  maxsize: 10
+
+host: 127.0.0.1
+port: 9009

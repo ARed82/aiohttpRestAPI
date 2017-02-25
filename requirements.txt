@@ -1,0 +1,5 @@
+aiohttp
+cchardet
+aiodns
+aiohttp_jinja2
+trafaret_config
