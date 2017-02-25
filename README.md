@@ -8,9 +8,13 @@ with python3.5 / pip3.5
 cd poolls
 pip3 install -e .
 
+or
+
+python3.5 setup.y install
+
 ##RUN
 python -m aiohttpdemo_polls
 
 
-- TEST
+- TEST:
 ab -n 7000 -c 100 http://127.0.0.1:9009/
